@@ -7,7 +7,7 @@ public class Sample2
 		
 		Sample1 s2=new Sample1();
 		System.out.println(s2.a);
-		s2.sq
+		s2.
 		
 		
 		
