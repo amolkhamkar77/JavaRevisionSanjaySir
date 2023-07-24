@@ -1,6 +1,6 @@
 package PolyMorphism;
 
-public class sample2 
+public class MethodOverloading_with_diff_ReturnType 
 {
 	//method overloading
 	

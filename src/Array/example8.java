@@ -5,13 +5,15 @@ public class example8
 	public static void main(String[] args)
 	{
 		// 2*3 multi dementional array
-		
+		// 2 Rows & 3 Columns
 		//  0  1  2
-		//0 10 20 30
-		//1 40 50 60
+		//0 10 20 30    -->Row1
+		//1 40 50 60    -->Row2
+		//   |  |  |
+		//  C1 C2  C3
 			
 		int [][] ar=new int[2][3];
-		
+		// R  C
 		ar[0][0]=10;
 		ar[0][1]=20;
 		ar[0][2]=30;

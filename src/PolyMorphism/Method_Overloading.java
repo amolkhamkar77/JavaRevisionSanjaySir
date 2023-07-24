@@ -1,6 +1,6 @@
 package PolyMorphism;
 
-public class sample1 
+public class Method_Overloading 
 {
 	//method overloading
 	

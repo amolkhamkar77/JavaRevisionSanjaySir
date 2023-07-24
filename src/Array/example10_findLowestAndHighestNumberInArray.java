@@ -13,7 +13,7 @@ public class example10_findLowestAndHighestNumberInArray
 		ar1[2]=40;
 		ar1[3]=10;     //40
 		
-		Arrays.sort(ar1);
+		Arrays.sort(ar1); // after sorting the get arranged in increasing order
 		 
 		System.out.println(ar1[0]);              //10
 		System.out.println(ar1[ar1.length-1]);   //40

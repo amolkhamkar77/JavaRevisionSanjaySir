@@ -4,7 +4,7 @@ public class example5_switch2
 {
 	public static void main(String[] args)
 	{
-		
+		// CW cash withdraw, CD cash deposite.. banking terms
 		switch("AA")
 		{
 			case "CD": System.out.println("running CD Code");

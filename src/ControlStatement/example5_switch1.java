@@ -7,6 +7,8 @@ public class example5_switch1
 		
 		switch(9)
 		{
+		// use single inverted comma in case of char value
+		// case 'a': System.out.println("a is vowel");
 			case 1: System.out.println("Today is Mon");
 			break;
 			

@@ -13,12 +13,14 @@ public class example7_findTotalNoOfVowelsInAString
 			char s1 = str.charAt(i);   //v
 			
 			if(s1=='a'| s1=='e'| s1=='i'|s1=='o'|s1=='u')
-			{
+			{   // | this is used for or
 				count++;
+				System.out.println("if block");
 			}
 			else
 			{
 				str1=str1+s1;
+				System.out.println("else block");
 			}
 		}
 		System.out.println(count);

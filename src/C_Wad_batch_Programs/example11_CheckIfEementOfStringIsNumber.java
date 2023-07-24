@@ -4,7 +4,7 @@ public class example11_CheckIfEementOfStringIsNumber
 {
 	public static void main(String[] args) 
 	{
-		String str="abc@123";
+		String str="abc  @123";
 		
 		for(int i=0; i<=str.length()-1; i++)
 		{

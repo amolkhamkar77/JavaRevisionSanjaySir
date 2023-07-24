@@ -5,7 +5,7 @@ public class TestMethodOverloading
 	public static void main(String[] args)
 	{
 		
-		sample1 s1=new sample1();
+		MethodOverloading_with_diff_ReturnType  s1=new MethodOverloading_with_diff_ReturnType ();
 		s1.add(10, 20);
 		s1.add(10, 20,30);
 		

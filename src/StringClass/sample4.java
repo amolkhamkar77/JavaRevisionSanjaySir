@@ -15,7 +15,7 @@ public class sample4
 		
 		
 		s3=s3.substring(0,1).toUpperCase() + s3.substring(1);
-		System.out.println(s3);
+		System.out.println(s3); //Abcd
 		
 		System.out.println(s1.substring(4,6));  //4-5  ci
 		System.out.println(s1.substring(4));   //city
@@ -34,8 +34,8 @@ public class sample4
 		System.out.println(s1.length());   //8
 		System.out.println(s1.isEmpty());   //false
 		
-//		s1=s1.toUpperCase();
-//		System.out.println(s1);
+//		s1=s1.toUpperCase();  // this convert string permanently
+//		System.out.println(s1); //VELOCITY
 		System.out.println(s1.toUpperCase());     //VELOCITY
 		
 //		s2=s2.toLowerCase();
